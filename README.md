@@ -4,7 +4,7 @@ This repository contains copies of various scripts that I've written to automate
 
 They're available without any warranty whatsoever that they'll do what you want them to do. They might eat your cat, replace all your data with pictures of unicorns, who knows.
 
-All scripts here are covered by the [Gnu Public License v3](https://www.gnu.org/licenses/gpl-3.0.en.html).
+All scripts here are covered by the [GNU General Public License v3](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 You're free to use them as long as you give me credit (either linking to this repository, or to https://kcore.org/) 
 
