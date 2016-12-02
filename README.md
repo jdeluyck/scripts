@@ -9,4 +9,4 @@ All scripts here are covered by the [Gnu Public License v3](https://www.gnu.org/
 You're free to use them as long as you give me credit (either linking to this repository, or to https://kcore.org/) 
 
 Current content:
-* borgbackup: a script using [Borg Backup](https://borgbackup.readthedocs.io) and [Rclone](https://rclone.org) to send backups to [BackBlaze B2](https://www.backblaze.com/b2/cloud-storage.html) ([or any other cloud storage provider supported by rclone](http://rclone.org/overview/))
+* borgbackup.sh: a script using [Borg Backup](https://borgbackup.readthedocs.io) and [Rclone](https://rclone.org) to send backups to [BackBlaze B2](https://www.backblaze.com/b2/cloud-storage.html) ([or any other cloud storage provider supported by rclone](http://rclone.org/overview/))
