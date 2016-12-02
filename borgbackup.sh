@@ -102,7 +102,7 @@ function do_init {
 	if [ ${?} -ne 0 ]; then
 		log info nomail "${BORG_REPO} not initialised, initialising"
 		
-		do_exec quiet "${BORG_BIN} init -e keyfile >/dev/null 2>/dev/null"
+		do_exec quiet "${BORG_BIN} init -e keyfile"
 		if ${?} -ne 0 ]; then
 			log error mail "could not initialise ${BORG_REPO}, quitting!"
 			exit 1
