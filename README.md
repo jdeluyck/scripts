@@ -13,3 +13,5 @@ Current content:
 * irssi: Some scripts for [Irssi](https://irssi.org/):
   * active_dcc.pl: shows DCC notices in your active window
   * yaiaways.pl: an away script (flags you as away and sets your nick accordingly)
+* smf_forums: Some scripts related to [SimpleMachines Forum](https://www.simplemachines.org/):
+  - export_db.php: Script to export your entire forum to html files
